@@ -7,9 +7,9 @@
 
 - 👤 My current work account is [DylanDuarioMVP](https://github.com/DylanDuarioMVP)
 
-- 👨‍💻 All of my previous work and freelance projects are available at [my portfolio](https://dylanroan.github.io/dylanroan/portfolio/index.html)
+- 👨‍💻 All of my previous work and freelance projects are available at [my portfolio](https://dylanroan.github.io/portfolio/)
 
-- 📃 This is a link to my [CV / Resume](https://dylanroan.github.io/dylanroan/portfolio/index.html)
+- 📃 This is a link to my [CV / Resume](https://dylanroan.github.io/portfolio/)
 
 - 📫 You can contact me on **dylanroanduario@gmail.com**
 
